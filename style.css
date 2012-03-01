@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#0099CC;
+	text-align:center;
+}
+td.header{
+		margin:0 auto;
+		height:100px;
+		width:950px;
+		text-align:center;
+}
+
+td.right{
+	width:150px;
+}
+
+td.footer{
+	height:65px;
+}
+td.content{
+	height:500px;
+}
